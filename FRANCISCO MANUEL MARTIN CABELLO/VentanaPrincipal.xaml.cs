@@ -53,6 +53,7 @@ namespace FRANCISCO_MANUEL_MARTIN_CABELLO
 
         private void Close(object sender, RoutedEventArgs e)
         {
+            DBase.FinalizarConexion();
             Window.GetWindow(this).Close();
         }
 

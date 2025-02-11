@@ -58,3 +58,63 @@ C:\Users\Fran\source\repos\SegundaEvaluacion\FRANCISCO MANUEL MARTIN CABELLO\obj
 C:\Users\Fran\source\repos\SegundaEvaluacion\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Modificar.baml
 C:\Users\Fran\source\repos\SegundaEvaluacion\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Borrar.g.cs
 C:\Users\Fran\source\repos\SegundaEvaluacion\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Borrar.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\FRANCISCO MANUEL MARTIN CABELLO.exe.config
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\FRANCISCO MANUEL MARTIN CABELLO.exe
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\FRANCISCO MANUEL MARTIN CABELLO.pdb
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\Google.Protobuf.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\MySql.Data.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Buffers.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Memory.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\ZstdSharp.dll
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\Google.Protobuf.pdb
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\Google.Protobuf.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\MySql.Data.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Buffers.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Memory.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Dictionary.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Login.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Agregar.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Borrar.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Inicio.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Modificar.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Login.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\App.g.cs
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO_MarkupCompile.cache
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO_MarkupCompile.lref
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\App.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Agregar.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Borrar.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Inicio.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\Frames\Modificar.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\VentanaPrincipal.baml
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.g.resources
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO_MANUEL_MARTIN_CABELLO.Properties.Resources.resources
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.csproj.GenerateResource.cache
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISC.F2970E74.Up2Date
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.exe
+C:\Users\Fran\OneDrive\Desktop\WPF Git\CRUD_WPF\FRANCISCO MANUEL MARTIN CABELLO\obj\Debug\FRANCISCO MANUEL MARTIN CABELLO.pdb
